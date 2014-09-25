@@ -6,3 +6,5 @@ The official center for the developers of the CCSA Web Team
 This is all copyrighted code by the CCSA Web Team with the exseption of the BootStrap API
 
 If your on the team, feel free to download it and edit it or just look it over
+click the "download zip" button to get all the source and then just double click on the html file
+to open it in a browser to see what we have done!
