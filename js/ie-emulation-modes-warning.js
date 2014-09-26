@@ -1,4 +1,4 @@
-//improved some code here, cleaned it up a bit to be easier changed later
+//improved some code here, cleaned it up a bit to be easier changed later.
 
 (function () {
   'use strict';
