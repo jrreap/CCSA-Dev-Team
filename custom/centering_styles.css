@@ -5,3 +5,17 @@ body {
   padding: 40px 15px;
   text-align: center;
 }
+.margin {
+  padding: 40px 20px;
+  text-align: right;
+  border-radius: 25px;
+}
+.jumbotron_2.0 {
+  text-align: center;
+  padding: 100px 50px;
+  border: 50px;
+  border-left: 25px;
+  border-right: 25px;
+  border-top: 25px;
+  border-bottom: 25px;
+}
