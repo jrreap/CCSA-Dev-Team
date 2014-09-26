@@ -214,3 +214,10 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#Rendering
+.rendering.cfg
+.render.cfg
+.render.fluffy.cfg
+.render.doc.cfg
+.render.script.cfg
