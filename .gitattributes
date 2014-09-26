@@ -1,4 +1,4 @@
-# Auto detect text files and perform LF normalization
+# Auto detect files with little worth, or .temp files
 * text=auto
 
 # Custom for Visual Studio
@@ -20,3 +20,5 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+*.temp diff=astextplain
+*.tempfiles diff=astextplain
