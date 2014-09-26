@@ -5,8 +5,6 @@
  * details, see http://creativecommons.org/licenses/by/3.0/.
  */
 
-// See the Getting Started docs for more information:
-// http://getbootstrap.com/getting-started/#support-ie10-width
 
 (function () {
   'use strict';
@@ -20,3 +18,7 @@
     document.querySelector('head').appendChild(msViewportStyle)
   }
 })();
+
+//improved to v0.8.2 so it could run better with opera
+//fixed a bit with the if staements
+//orginised it with some other js scripts to work smoother and run in the background
