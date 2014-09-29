@@ -19,3 +19,12 @@ body {
   border-top: 25px;
   border-bottom: 25px;
 }
+opera-center {
+    text-align: center;
+  padding: 103px 56px;
+  border: 57px;
+  border-left: 26px;
+  border-right: 26px;
+  border-top: 26px;
+  border-bottom: 26px;
+}
