@@ -15,6 +15,6 @@ Project To-Do List
 
 - Complete staff area
 - Add theme animations
-- Add out of date sensors
-- Add Google Analyitics
 - Add in Google Map API
+- Add advanced firewall protection
+- Add https protcol to website
