@@ -13,11 +13,11 @@ username and I'll add you in ASAP so you can being helping with the project.
 Project To-Do List
 ==================
 
-- Complete staff area
 - Add theme animations
-- Add in Google Map API
 - Add advanced firewall protection
 - Add https protcol to website
+- Add new JS script to index.html
+- Add slide content to the slide show
 
 Website Ideas
 =============
