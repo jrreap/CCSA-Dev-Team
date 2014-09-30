@@ -18,3 +18,9 @@ Project To-Do List
 - Add in Google Map API
 - Add advanced firewall protection
 - Add https protcol to website
+
+Website Ideas
+=============
+
+- Fort Delaware/Peapatch island
+- Cape Henlopen Forts
