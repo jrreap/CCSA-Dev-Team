@@ -18,6 +18,8 @@ Project To-Do List
 - Add https protcol to website
 - Add new JS script to index.html
 - Add slide content to the slide show
+- Add improved formatting class
+- Add windows-vista support
 
 Website Ideas
 =============
