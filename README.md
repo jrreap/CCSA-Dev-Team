@@ -24,3 +24,4 @@ Website Ideas
 
 - Fort Delaware/Peapatch island
 - Cape Henlopen Forts
+- Hagley Museum
