@@ -28,3 +28,12 @@ opera-center {
   border-top: 26px;
   border-bottom: 26px;
 }
+ie-center {
+  text-align: center;
+  padding: 100px 60px;
+  border: 58px;
+  border-left: 26px;
+  border-right: 29px;
+  border-top: 26px;
+  border-bottom: 29px;
+}
