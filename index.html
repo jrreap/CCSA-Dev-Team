@@ -12,10 +12,10 @@
     <!-- Custom styles for this template -->
     <link href="http://getbootstrap.com/examples/carousel/carousel.css" rel="stylesheet">
     <style id="holderjs-style" type="text/css"></style>
-    
+    <!-- Browser Detection Script -->
+    <script type="text/javascript" src="./js/brsdet.js"></script>
   </head>
-  
-<!--[if gte IE 8]>
+
   
 <!-- NAVBAR
 ================================================== -->
@@ -56,7 +56,6 @@
 
       </div>
     </div>
-
 
     <!-- Carousel
     ================================================== -->
@@ -115,7 +114,11 @@
     </div><!-- /.carousel -->
 
 
-
+  <!--[if IE]>
+	<div class="alert alert-danger" role="alert">
+      <strong>WARNING</strong> This website is not compatible with internet explorer!
+    </div>
+  <![endif]-->
     <!-- Marketing messaging and featurettes
     ================================================== -->
     <!-- Wrap the rest of the page in another container to center all the content. -->
