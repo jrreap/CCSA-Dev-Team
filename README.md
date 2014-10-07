@@ -14,11 +14,8 @@ Project To-Do List
 ==================
 
 - Add theme animations
-- Add advanced firewall protection
 - Add https protocol to website
-- Add new JS script to index.html
 - Add slide content to the slide show
-- Add improved formatting class
 - Add windows-vista support
 
 Website Ideas
