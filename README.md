@@ -16,7 +16,8 @@ Project To-Do List
 - Add theme animations
 - Work on formatting/creating the hotel page
 - Add slide content to the slide show
-- Add windows-vista support
+- Get Hagley Photos
+- Get Wintithur Photos
 
 Website Ideas
 =============
