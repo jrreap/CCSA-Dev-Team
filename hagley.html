@@ -9,6 +9,8 @@
 
     <!-- Custom styles for this template -->
     <link href="http://getbootstrap.com/examples/starter-template/starter-template.css" rel="stylesheet">
+	<link href="./custom/carousel.css" rel="stylesheet">
+    <style id="holderjs-style" type="text/css"></style>
 
   </head>
 
@@ -23,29 +25,69 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">BPA Web Dev</a>
+          <a class="navbar-brand" href="index.html">BPA Web Dev</a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li class="active"><a href="index.html">Home</a></li>
+            <li><a href="#">Restaurants</a></li>
+            <li><a href="hotels.html">Hotels</a></li>
+			<li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Attractions <span class="caret"></span></a>
+                  <ul class="dropdown-menu" role="menu">
+                    <li><a href="longwood.html">Longwood</a></li>
+                    <li><a href="hagley.html">Hagley Museum</a></li>
+                    <li><a href="winterthur.html">Winterthur</a></li>
+                  </ul>
+                </li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
     </div>
-    <div class="jumbotron">
-    <img align="center" src="">
-    </div>
-   
-
     <div class="container">
-        <h1 align="center">Hagley Museum and Library</h1>
-      <div class="jumbotron">
-        	<h3><strong>History</strong></h3>
-        		<p> Hagley Powder Mill was built by Éleuthère Irénée du Pont de Nemours in 1803 on the banks of the brandywine river. He chose to build the factory here because of the power the water provided, the abundance of timber and willow in the area that could be used to make quality charcoal as an ingredient in making good cahrcoal, and its proximity to the delaware river to ship in the other chemicals. The entire DuPont Company started from this powder mill. In 1912 the mill itself closed and individaul peices of the land were sold off. In 1952 on the 150th Anniversery of the Dupont company plans for a Hagley Museum and Library were revealed.</p>
+	  <div class="jumbotron">
+	  <h1>Hagley Museum</h1>
+	  <p>With the brandywine valley being home to the DuPont company, one of the best places is all about DuPont and how the company started. If you like history, this is the place to go! Scroll down from some highlights of the museum</p>
+	  </div>
+
+      <hr class="featurette-divider">
+
+
+      <div class="row featurette">
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" src="" alt="Generic placeholder image" style="border-radius: 10px;">
+        </div>
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Flowers <span class="text-muted"> Of Untold Beauty</span></h2>
+          <p class="lead">Each flower is unique, everywhere you look there is a new flower design. Each flower using its color for various purposes that all come together to create one of the best gardens around.</p>
+        </div>
       </div>
-    </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Inspiring Events, <span class="text-muted">Genius Designs</span></h2>
+          <p class="lead">There is a new event for each season whether its is Halloween, Spring or Christmas there is always something special at longwood. With something new to see just about everyday, there are more than enough reasons to head down to longwood and check it out!</p>
+        </div>
+        <div class="col-md-5">
+         <iframe width="500" height="500" frameborder="0" style="border:0 ; border-radius: 10px;" src=""></iframe>
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+      
+      <div class="row featurette">
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive" src="" alt="Generic placeholder image" style="border-radius: 10px;">
+        </div>
+        <div class="col-md-7">
+          <h2 class="featurette-heading">A Garden Built To Amaze <span class="text-muted"> More Than You Can Imagine</span></h2>
+          <p class="lead">There is a new event for each season wether its is Halloween, Spring or Christmas there is always something special at longwood. With something new to see just about everyday, there are more than enough reasons to head down to longwood and check it out!</p>
+        </div>
+      </div>
+
+    </div><!-- /.container -->
 
 
     <!-- Bootstrap core JavaScript
