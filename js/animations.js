@@ -4,5 +4,5 @@ $('body').css('opacity', '0').fadeTo(5000, 1,'swing');
 });
 
 $(document).ready(function (){
-$('#a img').css('opacity', '0').fadeTo(5000, 1,'swing'); 
+$('#a').css('opacity', '0').fadeTo(3000, 1,'swing'); 
 });
