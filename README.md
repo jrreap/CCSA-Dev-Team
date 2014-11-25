@@ -13,8 +13,9 @@ username and I'll add you in ASAP so you can being helping with the project.
 Project To-Do List
 ==================
 
-- Add theme animations
+- Finish Content on "Attraction" Pages
 - Work on formatting/creating the hotel page
+- Improve loading speed of pages and photos/elements
 - Add slide content to the slide show
 - Get Hagley Photos
 - Get Wintithur Photos
