@@ -17,7 +17,7 @@ Project To-Do List
 - Improve loading speed of pages and photos/elements
 - Add slide content to the slide show
 - Get Hagley Photos
-- Get Wintithur Photos
+- Get Winterthur Photos
 
 Website Ideas
 =============
