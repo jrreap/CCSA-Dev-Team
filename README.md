@@ -1,26 +1,15 @@
 CCSA-Dev-Team
 =============
 
-This is all copyrighted code by the CCSA Web Team with the exception of the BootStrap API
-
-If your on the team, feel free to download it and edit it or just look it over
-click the "download zip" button to get all the source and then just double click on the html file
-to open it in a browser to see what we have done!
-
-If your using GitHub mobile, some info may not be available but most of the data here can be accessed and edited from our mobile app.
+[ATTENTION TEAM] Please keep an eye on the to-do list below, it must be completed before the 3rd week of January each person has been given a job and it must be completed by this date. If it is not, the entire team will suffer.
 
 Project To-Do List
 ==================
 
-- Finish Content on "Attraction" Pages
-- Work on formatting/creating the hotel page
 - Improve loading speed of pages and photos/elements
 - Add slide content to the slide show
+- Add Safari Support
+- Add All Restaurants to eats.html 
 - Get Hagley Photos
 - Get Winterthur Photos
-
-Website Ideas
-=============
-
-- Fort Delaware/Peapatch island
-- Cape Henlopen Forts
+- Being Work On Speach 
