@@ -22,3 +22,7 @@ $(document).ready(function(){
 $(document).ready(function(){
     $("#fade3").hide(0).delay(3000).fadeIn(1500)
 });
+
+$(document).ready(function(){
+    $("#fade4").hide(0).delay(3500).fadeIn(1500)
+});
