@@ -20,6 +20,7 @@ Garrett:
 Sam:
 
 - Begin Work On Speech
+- Gather more research for eats.html
 
 
 Max
