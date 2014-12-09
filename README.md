@@ -1,7 +1,7 @@
 CCSA-Dev-Team
 =============
 
-[ATTENTION TEAM] Please keep an eye on the to-do list below, it must be completed before the 3rd week of January each person has been given a job and it must be completed by this date. If it is not, the entire team will suffer.
+[ATTENTION TEAM] Please keep an eye on the to-do list below, each person has been given a job below. It must be completed before the 3rd week of January. The website is almost done, but there is still a lot of things to be done... lets not lose focus. 
 
 Project To-Do List
 ==================
