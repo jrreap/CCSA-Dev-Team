@@ -18,9 +18,9 @@ Garrett:
 
 Sam:
 - Get Hagley Photos
-- Begin Work On Speach
+- Begin Work On Speech
 
 
 Max
 - Get Winterthur Photos
-- Being Work On Speach 
+- Being Work On Speech 
