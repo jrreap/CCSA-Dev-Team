@@ -13,7 +13,7 @@ Jaydon:
 - Add All Restaurants to eats.html
 
 Garrett:
-- Finish research on hagley page
+- Finish research on Hagley page
 - Search for more hotels?
 - Get Hagley Photos
 
