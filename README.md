@@ -15,12 +15,13 @@ Jaydon:
 Garrett:
 - Finish research on Hagley page
 - Search for more hotels?
-- Get Hagley Photos
+- Get (more) Hagley Photos
 
 Sam:
 
 - Begin Work On Speech
 - Gather more research for eats.html
+- Get Hagley Photos
 
 
 Max
