@@ -37,3 +37,13 @@ ie-center {
   border-top: 26px;
   border-bottom: 29px;
 }
+safari-center {
+  text-align: center;
+  padding: 100px 60px;
+  border: 5px;
+  border-left: 20px;
+  border-right: 20px;
+}
+chrome-center {
+  text-align: center;
+}
