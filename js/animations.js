@@ -1,4 +1,4 @@
-// JavaScript Document
+/* JavaScript Document */
 $(document).ready(function (){
 $('body').css('opacity', '0').fadeTo(4000, 1,'swing'); 
 });
@@ -26,3 +26,10 @@ $(document).ready(function(){
 $(document).ready(function(){
     $("#fade4").hide(0).delay(3500).fadeIn(1500)
 });
+
+$(document).ready(function(){
+    $("#fade5").hide(0).delay(4000).fadeIn(1500)
+});
+
+/* Loading Screen */
+
