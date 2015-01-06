@@ -4,11 +4,11 @@ $('body').css('opacity', '0').fadeTo(4000, 1,'swing');
 });
 
 $(document).ready(function(){
-    $("#fade").hide(0).delay(2000).fadeIn(2500)
+    $("#fade").hide(0).delay(1000).fadeIn(1500)
 });
 
 $(document).ready(function(){
-    $("#fade_last").hide(0).delay(3500).fadeIn(2500)
+    $("#fade_last").hide(0).delay(5000).fadeIn(1500)
 });
 
 $(document).ready(function(){
@@ -29,6 +29,10 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#fade5").hide(0).delay(4000).fadeIn(1500)
+});
+
+$(document).read(function(){
+   $("#fade6").hide(0).delay(4500).fadeIn(1500) 
 });
 
 /* Loading Screen */
