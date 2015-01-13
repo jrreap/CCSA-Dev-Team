@@ -8,12 +8,9 @@ Project To-Do List
 
 Jaydon:
 - Improve loading speed of pages and photos/elements
-- Add slide content to the slide show
-- Add Safari Support
 - Add All Restaurants to eats.html
 
 Garrett:
-- Finish research on Hagley page
 - Gather more research for eats.html
 - Get (more) Hagley Photos
 
@@ -24,6 +21,5 @@ Sam:
 
 
 Max
-- Get Winterthur Photos
 - Gather more research for eats.html
 
