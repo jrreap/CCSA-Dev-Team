@@ -7,19 +7,17 @@ Project To-Do List
 ==================
 
 Jaydon:
-- Improve loading speed of pages and photos/elements
-- Add All Restaurants to eats.html
+- Final bug fixes and improvements
+- Work on speech
 
 Garrett:
-- Gather more research for eats.html
-- Get (more) Hagley Photos
+- Work on speech
 
 Sam:
 
-- Gather more research for eats.html
-- Get Hagley Photos
+- Work on speech
 
 
 Max
-- Gather more research for eats.html
+- Work on speech
 
