@@ -1,0 +1,15 @@
+/* Copyright Jaydon Reap, Ficus Technologies 2014-2015 */
+
+
+/* CUSTOM FONT VARIABLES
+-------------------------------------------------- */
+
+@font-face {
+    font-family: custom1;
+    src: url(../fonts/AlexBrush-Regular.ttf);
+}
+
+#custom-font1 {
+	font-family: custom1;
+}
+
