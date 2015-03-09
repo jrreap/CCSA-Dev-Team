@@ -1,0 +1,49 @@
+(c) 2014-2015 Chocos Web Dev Team - Project Chocos
+==================================================
+
+v2.2.0
+	- Added a loading gif file to use in the Jumbotron if users have a slower connection
+	- Added controls to the jumbtron (these may or may not show up depending on the browser/device)
+	- Added touch support to the site for our mobile users
+	- Fixed a rare bug that caused the slideshow to stop
+	
+v2.1.9
+	- Added new vinfo.html
+	- Improved Browser Detection Script
+	- Improved Browser to Website data protocol (only if being viewed online from the Ficus web server)
+	- Improved https protocol, also added http protocol option (depending on the browser)
+	
+v2.1.7
+	- Updated Browser to Website data protocol to v1.8 (for web server only)
+	- Added NavBar 2.1 (mostly css additions)
+	- Added Jumbotron 3.0 (Slideshow)
+	- Improved formatting on the 3 headers below the jumbotron
+	- Improved formatting on some various other elements
+	
+v2.1.0
+	- Redesigned front page to fit with the new modern layout
+	- Redesigned the nav bar for improved system performance
+	- Improved Browser Detection Script to detect Opera better
+	- Improved the site animations to load effectively, improving performance
+	- Fixed Major Bug that caused the site to read Safari as Internet Explorer
+	- Fixed Major Bug that caused the site to stop refreshing
+	- Fixed a minor bug with IE to not allow the scroll bar to work
+	- Fixed a minor bug with Firefox that didn't allow the Jumbotron to work correctly
+	- Fixed a minor permission issue with Opera that prevented the site from loading
+	- Fixed the Nav Bar mis-formatting bug in Opera
+	- Fixed lots of minor bugs with the animations
+	
+v2.0.1
+	- Fixed a crash bug that forced the site to display the "can't find page" error in chrome
+	- Fixed some formatting issues with the home page
+	- Fixed some other animation bugs in IE
+	
+v2.0.0
+	- Added new Theme
+	- Added new navbar
+	- Added new Jumbotron
+	- Added new Slideshow API (BXSlider)
+	- Added in Bootstrap Upgrades
+	- Improved the Browser Detection Script greatly
+	- Improved the Browser to Website data protocol to be more effective
+	- Improved cross-browser adaptability to be more effective, improving performance  

@@ -1,4 +1,7 @@
-/* JavaScript Document */
+// (c) 2014-2015 Ficus Technologies
+// Ficus-Web API v1.4.9
+
+/* Fade Animations */
 $(document).ready(function (){
 $('body').css('opacity', '0').fadeTo(4000, 1,'swing'); 
 });

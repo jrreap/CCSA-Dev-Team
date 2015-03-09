@@ -1,22 +1,16 @@
-Current Status
-=============
-Project Sumitted and Awaiting Reveiw...
+Project Chocos
+==============
 
-Project To-Do List
-==================
+The Project to create the best site the BPA national leadership conference
+has ever seen.
 
-Jaydon:
-- Final bug fixes and improvements
-- Work on speech
+Team Members
+============
 
-Garrett:
-- Work on speech
+Jaydon - Web Developer, Web Designer/Editor and Browser Compatibility Developer
 
-Sam:
+Sam - Graphic Artist, Speech Writer and Photographer
 
-- Work on speech
+Garret - Speech Writer, Website Editor/Speech Editor and Researcher
 
-
-Max
-- Work on speech
-
+Max - Graphic Artist, Speech Writer and Photographer

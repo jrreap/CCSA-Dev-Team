@@ -1,12 +1,11 @@
-
 <!DOCTYPE html>
-<html lang="en">
+<html  { overflow-y: scroll; }>
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon" />
 
-    <title>Longwood General Info</title>
+    <title>Longwood Info</title>
 
     <!-- Bootstrap core CSS -->
     <link href="./css/bootstrap.css" rel="stylesheet">
@@ -15,42 +14,46 @@
     <link href="./custom/centering_styles.css" rel="stylesheet">
 	<link href="./custom/carousel.css" rel="stylesheet">
 	<link href="./custom/loading.css" rel="stylesheet">
-	<style id="holderjs-style" type="text/css"></style>
 
 
   </head>
 
   <body>
 
-        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="index.html">BPA Web Team</a>
-        </div>
-        <div class="navbar-collapse collapse">
-              <ul class="nav navbar-nav">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="eats.html">Restaurants</a></li>
-                <li><a href="hotels.html">Hotels</a></li>
-                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Attractions <span class="caret"></span></a>
-                  <ul class="dropdown-menu" role="menu">
-                    <li><a href="longwood.html">Longwood</a></li>
-                    <li><a href="hagley.html">Hagley Museum</a></li>
-                    <li><a href="winterthur.html">Winterthur</a></li>
-                  </ul>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
+      <!-- Navigation & Logo-->
+        <div class="mainmenu-wrapper">
+	        <div class="container">
+		        <nav id="mainmenu" class="mainmenu">
+					<ul>
+						<li class="logo-wrapper"><a href="index.html"><img src="./images/logo.png" alt="#"></a></li>
+						<li>
+							<a href="index.html">Home</a>
+						</li>
+						<li>
+							<a href="hotels.html">Hotels</a>
+						</li>
+						<li>
+							<a href="eats.html">Restaurants</a>
+						</li>
+						<li class="has-submenu">
+							<a href="#">Attractions</a>
+							<div class="mainmenu-submenu">
+								<div class="mainmenu-submenu-inner"> 
+									<div>
+										<h4><a href="longwood.html">Longwood Gardens</a></h4>
+										<h4><a href="hagley.html">Hagley Museum/Library</a></h4>
+										<h4><a href="winterthur.html">Winterthur</a></h4>
+									</div>
+								</div><!-- /mainmenu-submenu-inner -->
+							</div><!-- /mainmenu-submenu -->
+						</li>
+						<li>
+							<a href="info.html">Team Info</a>
+						</li>
+					</ul>
+				</nav>
+			</div>
+		</div>
 
     <div class="container">
 	  <div class="jumbotron">
@@ -97,23 +100,31 @@
 	  <!-- FOOTER -->
       <footer id="fade4" style="padding-top: 50px">
         <p class="pull-right"><a href="#">Back to top</a></p>
-        <p class="pull-left"><a href="info.html">© 2014 Chocos Web Development Team</a></p>
+        <p class="pull-left"><a href="info.html">&copy; 2015 Chocos Web Development Team</a></p>
       </footer>
       <!-- END FOOTER -->
 
     </div><!-- /.container -->
 
-
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-	<script src="./js/pace.min.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="./js/pace.min.js"></script>
     <script src="./js/jquery.min.js"></script>
     <script src="./js/bootstrap.min.js"></script>
     <script src="./js/docs.min.js"></script>
+	<script src="./js/main-menu.js"></script>
+	
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
-	<!-- Animation Scripts -->
-	<script src="./js/animations.js"></script>
+    <script src="./js/ie10-viewport-bug-workaround.js"></script>
+	
+	<!-- Ficus API Animations -->
+    <script src="./js/animations.js"></script>
+	
+	<!-- BxSlider API core js -->
+	<script src="./js/jquery.sequence.js"></script>
+    <script src="./js/jquery.bxslider.js"></script>
+	<script src="./js/jquery.slider.js"></script>
   </body>
 </html>

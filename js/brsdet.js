@@ -1,6 +1,6 @@
 
-// Browser Detection Javascript
-// Copyright 2014, by Jaydon Reap, Ficus Technologies
+// Browser Detection Script
+// Copyright 2014-2015, by Jaydon Reap (Hereby known as Ficus Technologies)
 
 function whichBrs() {
 var agt=navigator.userAgent.toLowerCase();
