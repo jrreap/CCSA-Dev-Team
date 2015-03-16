@@ -1,6 +1,18 @@
 (c) 2014-2015 Chocos Web Dev Team - Project Chocos
 ==================================================
 
+v2.2.9
+	- Added in a Web Server Adjustment Script (WSAS)
+	- Added in Chrome security checks
+	- Added in a improved loading symbol (not available for IE yet)
+	- Added support for secure connections (https and ftps)
+	- Added in screen size adaptability to allow for a more adaptive site 
+	- Improved the Browser Detection Script to detect both browsers and screen sizes
+	- Improved the loading time of many pages for all browsers
+	- Improved efficiency of the detection system on Ficus-1 for improved connection speeds
+	- Improved Firefox and Opera detection systems to provide more data to use in adaptive processes
+	- Improved nav bar to be more adaptive to other browsers
+
 v2.2.4
 	- Added another custom font
 	- Added IE support to the custom fonts
