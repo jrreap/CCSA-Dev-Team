@@ -6,9 +6,11 @@
 
 @font-face {
     font-family: custom1;
-    src: url(../fonts/AlexBrush-Regular.ttf);
-}
-
+    src: url('../fonts/custom.svg') format('embedded-opentype'), 
+         url('../fonts/custom1.woff') format('woff'), 
+         url('../fonts/custom1.ttf')  format('truetype'),
+         url('../fonts/custom.svg') format('svg');
+    }
 #custom-font1 {
 	font-family: custom1;
 }
