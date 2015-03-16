@@ -1,6 +1,14 @@
 (c) 2014-2015 Chocos Web Dev Team - Project Chocos
 ==================================================
 
+v2.2.4
+	- Added another custom font
+	- Added IE support to the custom fonts
+	- Added 3 other formats of the font for improved cross-browser support
+	- Improved Browser Detection Script
+	- Improved site to be more IE adaptive
+	- Sam increased awesomeness with bread designs	
+
 v2.2.0
 	- Added a loading gif file to use in the Jumbotron if users have a slower connection
 	- Added controls to the jumbtron (these may or may not show up depending on the browser/device)
