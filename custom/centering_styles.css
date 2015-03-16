@@ -47,3 +47,12 @@ safari-center {
 chrome-center {
   text-align: center;
 }
+chrome-center-backup {
+  text-align: center;
+  border: 12px;
+  border-radius: 12px;
+  border-left: 12px;
+  border-right: 12px;
+  font-family: custom1;
+  padding: system-Online-55.5px;
+}
