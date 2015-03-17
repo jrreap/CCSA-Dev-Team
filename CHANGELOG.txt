@@ -7,7 +7,7 @@ v2.2.9
 	- Added in a improved loading symbol (not available for IE yet)
 	- Added support for secure connections (https and ftps)
 	- Added in screen size adaptability to allow for a more adaptive site 
-	- Improved the Browser Detection Script to detect both browsers and screen sizes
+	- Improved the Browser Detection Script to detect both browser IDs and screen sizes
 	- Improved the loading time of many pages for all browsers
 	- Improved efficiency of the detection system on Ficus-1 for improved connection speeds
 	- Improved Firefox and Opera detection systems to provide more data to use in adaptive processes
@@ -23,7 +23,7 @@ v2.2.4
 
 v2.2.0
 	- Added a loading gif file to use in the Jumbotron if users have a slower connection
-	- Added controls to the jumbtron (these may or may not show up depending on the browser/device)
+	- Added controls to the Jumbtron (these may or may not show up depending on the browser/device)
 	- Added touch support to the site for our mobile users
 	- Fixed a rare bug that caused the slideshow to stop
 	
@@ -37,7 +37,7 @@ v2.1.7
 	- Updated Browser to Website data protocol to v1.8 (for web server only)
 	- Added NavBar 2.1 (mostly css additions)
 	- Added Jumbotron 3.0 (Slideshow)
-	- Improved formatting on the 3 headers below the jumbotron
+	- Improved formatting on the 3 headers below the Jumbotron
 	- Improved formatting on some various other elements
 	
 v2.1.0
