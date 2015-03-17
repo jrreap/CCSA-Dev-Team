@@ -1,5 +1,12 @@
 (c) 2014-2015 Chocos Web Dev Team - Project Chocos
 ==================================================
+v2.3.2
+	- Added thumbnails to the Jumbotron
+	- Added thumbnail support for the Jumbotron
+	- Added improved sliding animations for the Jumbotron
+	- Fixed a loading bug with IE 
+	- Fixed a major issue with the WSAS that failed to identify the server correctly
+	
 v2.3.0
 	- Fixed a few more grammar errors
 	- Fixed nav bar loading bug
