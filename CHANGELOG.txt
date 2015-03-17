@@ -1,6 +1,12 @@
 (c) 2014-2015 Chocos Web Dev Team - Project Chocos
 ==================================================
-
+v2.3.0
+	- Fixed a few more grammar errors
+	- Fixed nav bar loading bug
+	- Fixed a loading "bar" bug in IE
+	- Fixed a rare bug that caused the BDS to crash
+	- Fixed a few other minor bugs
+	
 v2.2.9
 	- Added in a Web Server Adjustment Script (WSAS)
 	- Added in Chrome security checks
