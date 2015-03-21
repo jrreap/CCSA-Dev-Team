@@ -1,5 +1,11 @@
 (c) 2014-2015 Chocos Web Dev Team - Project Chocos
 ==================================================
+v2.3.3
+	- Added a new IE supportive loading spinner
+	- Added a IE support and adaptation script
+	- Improved overall site adaptivity
+	- Improved various other website elements
+	
 v2.3.2
 	- Added thumbnails to the Jumbotron
 	- Added thumbnail support for the Jumbotron
