@@ -3,7 +3,7 @@
 
 /* Fade Animations */
 $(document).ready(function (){
-$('body').css('opacity', '0').fadeTo(4000, 1,'swing'); 
+$('body').css('opacity', '0').fadeTo(2500, 1,'swing'); 
 });
 
 $(document).ready(function(){
