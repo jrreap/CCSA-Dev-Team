@@ -1,5 +1,11 @@
 (c) 2014-2015 Chocos Web Dev Team - Project Chocos
 ==================================================
+
+v2.3.4
+	- Added newly written paragraphs to the hotel and restaurant pages
+	- Added 3 new graphics to the restaurants page
+	- Improved the fade animations to be smoother and more effective
+	
 v2.3.3
 	- Added a new IE supportive loading spinner
 	- Added a IE support and adaptation script
