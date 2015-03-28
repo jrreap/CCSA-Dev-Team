@@ -1,5 +1,11 @@
 (c) 2014-2015 Chocos Web Dev Team - Project Chocos
 ==================================================
+v2.3.6
+	- Added 3 new hagley photos
+	- Added a video loader to the site (for future use)
+	- Added the new photos to the hagley page
+	- Fixed a few minor bugs to improve stability 
+	
 v2.3.5
 	- Added the team logo to the nav bar
 	- Added 2 new graphics to use in the site
