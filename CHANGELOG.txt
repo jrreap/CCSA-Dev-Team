@@ -1,5 +1,9 @@
 (c) 2014-2015 Chocos Web Dev Team - Project Chocos
 ==================================================
+v2.3.7
+	- Added the Browser Detection Script v2.0
+	- Fixed many, MANY spelling and grammatical errors
+	
 v2.3.6
 	- Added 3 new hagley photos
 	- Added a video loader to the site (for future use)
