@@ -1,5 +1,11 @@
 (c) 2014-2015 Chocos Web Dev Team - Project Chocos
 ==================================================
+v2.3.8
+	- Added 3 new feature photos for Winterthur
+	- Added an updated steak photo 
+	- Updated the winterthur.html page to use the new photos
+	- Updated the restaurants page to use the new photo 
+	
 v2.3.7
 	- Added the Browser Detection Script v2.0
 	- Fixed many, MANY spelling and grammatical errors
