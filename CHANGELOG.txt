@@ -1,5 +1,14 @@
 (c) 2014-2015 Chocos Web Dev Team - Project Chocos
 ==================================================
+v2.4.0
+	- Added a video loading system (server end)
+	- Added a video loading system (website end)
+	- Added a video playing system
+	- Added video playing controls
+	- Improved the Browser Detection Script to adjust the video as well
+	- Improved IE support across all pages
+	- Updated the chocos logo
+	
 v2.3.8
 	- Added 3 new feature photos for Winterthur
 	- Added an updated steak photo 
