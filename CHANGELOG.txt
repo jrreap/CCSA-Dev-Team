@@ -1,5 +1,9 @@
 (c) 2014-2015 Chocos Web Dev Team - Project Chocos
 ==================================================
+v2.4.1
+	- Fixed some spelling errors in the video
+	- Fixed some spelling and grammatical errors on the web page
+	
 v2.4.0
 	- Added a video loading system (server end)
 	- Added a video loading system (website end)
