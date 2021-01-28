@@ -1,8 +1,7 @@
 Project Chocos
 ==============
 
-The Project to create the best site the BPA national leadership conference
-has ever seen.
+Website design project that was entered in the 49th BPA Web Design competition. This project won first in the nation for web design in May 2015.
 
 Team Members
 ============
